@@ -13,4 +13,3 @@ create table spring5fs.MEMBER
     REGDATE  datetime,
     unique key (EMAIL)
 ) engine=InnoDB character set = utf8;
-)
